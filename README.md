@@ -19,3 +19,6 @@ for idx in range(10):
     authors_list.append(response_json[idx]['author']) # get author value of result at index idx
     print("")
 ```
+
+## More examples/referemces
+PushShift GitHub: https://github.com/pushshift/api
