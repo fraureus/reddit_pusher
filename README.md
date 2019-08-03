@@ -20,5 +20,5 @@ for idx in range(10):
     print("")
 ```
 
-## More examples/referemces
+## More examples/references
 PushShift GitHub: https://github.com/pushshift/api
